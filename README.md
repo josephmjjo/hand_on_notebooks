@@ -1,3 +1,9 @@
+I'm learning by the book 
+
+
+
+
+
 Machine Learning Notebooks
 ==========================
 
